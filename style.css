@@ -29,7 +29,6 @@ h1 {
     color: #333;
 }
 
-
 .input-section {
     margin-bottom: 20px;
 }
@@ -47,8 +46,6 @@ input {
     font-size: 16px;
 }
 
-
-
 button {
     width: 100%;
     padding: 10px;
@@ -64,8 +61,6 @@ button:hover {
     background-color: #218838;
 }
 
-
-
 .result-section {
     margin-top: 20px;
     font-size: 18px;
@@ -79,8 +74,6 @@ button:hover {
 #bmi-category {
     margin-top: 10px;
 }
-
-
 
 @media (max-width: 600px) {
     .container {
