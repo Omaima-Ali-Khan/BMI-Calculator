@@ -64,3 +64,19 @@ button:hover {
     background-color: #218838;
 }
 
+
+
+.result-section {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #333;
+}
+
+#bmi-result {
+    font-weight: bold;
+}
+
+#bmi-category {
+    margin-top: 10px;
+}
+
