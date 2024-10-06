@@ -80,3 +80,20 @@ button:hover {
     margin-top: 10px;
 }
 
+
+
+@media (max-width: 600px) {
+    .container {
+        padding: 15px;
+        width: 90%;
+    }
+
+    h1 {
+        font-size: 20px;
+    }
+
+    input, button {
+        font-size: 14px;
+    }
+}
+
